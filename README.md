@@ -1,6 +1,7 @@
 
 # Hey, Im Alejandro
-![Funny Linux]([https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif](https://i.pinimg.com/736x/81/29/92/812992f44a2cd6e6787b8b61209abf48.jpg))
+![foto1](https://i.pinimg.com/736x/81/29/92/812992f44a2cd6e6787b8b61209abf48.jpg)
+
 
 # 🚀 About Me
 ## Systems Administrator / DevOps Engineer
