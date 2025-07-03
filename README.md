@@ -44,6 +44,6 @@ Professional with experience in Linux system administration, cloud infrastructur
 ## 📊 Stats
 
 
-![Chukulun's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chukulun&theme=vue-dark&hide_border=true)
+
 ![Chukulun's Stats](https://github-readme-stats.vercel.app/api?username=Chukulun&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Chukulun's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chukulun&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
