@@ -4,9 +4,15 @@
 
 
 # 🚀 About Me
-## Systems Administrator / DevOps Engineer
+## Systems Administrator / Junior Data Engineer
 
-Professional with experience in Linux system administration, cloud infrastructure management (Azure, Google Cloud), automation with Ansible and Terraform, container orchestration using Docker and Kubernetes, as well as monitoring with Grafana and Prometheus. Extensive knowledge of MySQL, MariaDB, and Oracle 19c databases, and experience using CI/CD tools like GitHub Actions.
+Professional with experience in **Linux system administration** and **cloud infrastructure** (Azure, Google Cloud), with a strong interest in **data engineering and data processing**.
+
+I work with **Python** for data analysis and preparation, using libraries such as **pandas, NumPy and matplotlib**, and I am gaining experience in **data pipelines, data cleaning, validation and feature preparation** for analytical and machine learning workflows.
+
+I have hands-on experience with **SQL-based databases** (MySQL, MariaDB, Oracle 19c), and I am expanding my knowledge in **big data technologies** such as **Apache Spark** and **distributed data processing concepts (MapReduce)**.
+
+I am also familiar with **containerized environments** using **Docker and Kubernetes**, monitoring with **Grafana and Prometheus**, and CI/CD workflows with **GitHub Actions**, which allows me to work comfortably in production-like data environments.
 
 
 
@@ -22,8 +28,6 @@ Professional with experience in Linux system administration, cloud infrastructur
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![Microsoft Azure](https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) 
@@ -32,6 +36,12 @@ Professional with experience in Linux system administration, cloud infrastructur
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) 
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white) 
 ![Oracle 19c](https://img.shields.io/badge/Oracle_19c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ## 🔗 Links
 
